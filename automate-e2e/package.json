@@ -1,0 +1,13 @@
+{
+  "name": "automate-e2e-ecommerce",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.0.2",
+    "cucumber-html-reporter": "^4.0.4",
+    "gulp-cucumber": "^0.0.23",
+    "puppeteer": "^1.9.0"
+  }
+}
