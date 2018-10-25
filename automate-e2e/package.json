@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
+  "scripts": {
+    "start": "npx cucumber-js"
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "cucumber": "^5.0.2",
