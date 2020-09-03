@@ -11,6 +11,6 @@
     "cucumber": "^5.0.2",
     "cucumber-html-reporter": "^4.0.4",
     "gulp-cucumber": "^0.0.23",
-    "puppeteer": "^1.9.0"
+    "puppeteer": "^1.13.0"
   }
 }
